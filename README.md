@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @betsylandells
-- 👀 I’m interested in Particle Physics!
+- 👀 I’m interested in medical and particle physics!
 - 🌱 I’m currently learning data analysis and machine learning techniques
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me betc@live.co.uk
